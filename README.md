@@ -4,3 +4,5 @@ A Growth Mindset is a mentality that centers the ability to improve over natural
 >A growth mindset is synonymous with a love of learning.
 ## References:
 [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset). 
+## About The Author
+Azhar Ali Baig is a veteran of the United States Army who seeks to make positive changes in the world through his daily work. He can be found at [Azhar Ali Baig](https://github.com/Azhar-B). 
