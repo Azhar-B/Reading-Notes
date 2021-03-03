@@ -21,21 +21,14 @@ Azhar Ali Baig is a veteran of the United States Army who seeks to make positive
 Markdown is a is a way to style text on the web. It gives a variety of options from italics to bold to lists and a series of other methods to make a unique design on a webpage. It is mostly text with a few non-text imputs as well. It is used often on GitHub.
 
 ### List of Commands
-1. Headers
- * # This is an <h1> tag
- * ## This is an <h2> tag
- * ###### This is an <h6> tag
-  
-2. Emphasis
-> *This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
-
-3. 
+1. Headers just need the # with the first one being the biggest and increasing the number of # decreases the size of the header.
+2. Emphasis is done through * or _ One is for italics, two is bold, and you can combine them.
+3. Unordered Lists use * at the beginning of the list and you will have bullets.
+4. Ordered Lists uses numbers.
+5. Images are inserted by using ![](//.png)
+6. Links are inserted by [Website Name](website url)
+7. Blockquotes
+8. Inline Code
 
 ## Choosing A Text Editor
 
