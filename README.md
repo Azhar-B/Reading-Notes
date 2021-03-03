@@ -16,6 +16,27 @@ It is always hardest in the beginning
 Azhar Ali Baig is a veteran of the United States Army who seeks to make positive changes in the world through his daily work. He can be found at [Azhar Ali Baig](https://github.com/Azhar-B). 
 
 
+## Markdown
+
+Markdown is a is a way to style text on the web. It gives a variety of options from italics to bold to lists and a series of other methods to make a unique design on a webpage. It is mostly text with a few non-text imputs as well. It is used often on GitHub.
+
+### List of Commands
+1. Headers
+> # This is an <h1> tag
+ ## This is an <h2> tag
+ ###### This is an <h6> tag
+  
+2. Emphasis
+> *This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
+3. 
+
 ## Choosing A Text Editor
 
 ### What is A Text Editor
