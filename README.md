@@ -12,8 +12,7 @@ It is always hardest in the beginning
 
 ## References:
 [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset). 
-## About The Author
-Azhar Ali Baig is a veteran of the United States Army who seeks to make positive changes in the world through his daily work. He can be found at [Azhar Ali Baig](https://github.com/Azhar-B). 
+ 
 
 
 ## Markdown
@@ -27,8 +26,10 @@ Markdown is a is a way to style text on the web. It gives a variety of options f
 4. Ordered Lists uses numbers.
 5. Images are inserted by using ![](//.png)
 6. Links are inserted by [Website Name](website url)
-7. Blockquotes
-8. Inline Code
+7. Blockquotes are done with > at the beginning of every line.
+8. Inline Code is done with <>
+
+
 
 ## Choosing A Text Editor
 
@@ -47,3 +48,11 @@ There are two text editors already installed into most computers. On Macs, this 
 #### Third-Party Text Editors
 There are many third-party editors that people can downloaded. Some are free and some have to be paid for. The following is a list of third-party text editors commonly used.
 1. NotePad++ is a free text editor for Windows Computers only. NotePad++ has been around for many years and many web developers swear by NotePad++. It has syntax highlighting and code completion, as well as word completion and function completion. It has a zoom in an out feature, it’s own online community, and its own chat room for questions that may arise. It even has its own searchable wiki page for more assistance
+2. TextWrangler is for Mac computers only, and you used to be able to download it from the Mac App Store. In doing my research for this blog post, I’ve come to find out that TextWrangler has been retired. I know, I’m a little late to the party with this news, but TextWrangler was retired in 2017. This was one of the go-to text editors for Mac Computers.
+3. BB Edit is software that you purchase. But BB Edit comes with a 30-day free trial. After the 30 days is over, if you still want the free version, simply continue using BB Edit, and you’ll get the same features as you would have gotten in TextWrangler. If you want the full features in BB Edit, the full cost for a full license is $49.99.
+4. Visual Studio Code is a free text editor made by the folks at Microsoft. It is available for Windows computers, Mac computers and Linux computers. VS Code has the Emmet shorthand for HTML and CSS already built-in with no additional work from you at all. VS Code has everything: syntax highlighting, themes, extensions and code completion. It seems like VS Code has a very healthy following in the web developing community.
+5. Atom is a free text editor that’s available for download for Windows computers, Mac computers and Linux computers. Atom is brought to you by the folks at GitHub . GitHub is a great service online where you can host and review code, or you can post and get help with the development of your own projects. Atom also ticks all the right boxes. It has syntax highlighting, themes, extensions, the works! Atom is definitely a software to check out and test drive for yourself.
+6. Brackets is a free text editor that’s available for download for Windows computers, Mac computers and Linux computers. It’s made and maintained by the good folks at Adobe—yep, the Photoshop people. Brackets only supports HTML, CSS and JavaScript, though more coding capabilities can be added through extensions. Being that Brackets only supports HTML, CSS and JavaScript, this might be a great choice to start with. But still the choice is yours. Brackets includes all of the features one may want when using a text editor including something called “Live Preview” which updates your website once you make a change automatically.
+7. Sublime Text 3 is a premium software that can be purchased in full for $70. Otherwise you’ll use the free version. Sublime Text enjoys a history of being fast and responsive while being extensible as well. There’s no doubt that Sublime Text will tick the check boxes of what to look for in a text editor. It has syntax highlighting, it has code completion, it has themes and extensions. And will definitely get the job done no matter how advanced you get with your coding.
+### The Difference Between Text Editors and Integrated Development Environment (IDEs)
+An IDE is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package. It is commonly used by more experienced coders as it filled with more features. 
