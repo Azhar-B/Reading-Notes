@@ -29,6 +29,8 @@ Markdown is a is a way to style text on the web. It gives a variety of options f
 7. Blockquotes are done with > at the beginning of every line.
 8. Inline Code is done with <>
 
+### References
+[Markdown](https://guides.github.com/features/mastering-markdown/)
 
 
 ## Choosing A Text Editor
@@ -56,3 +58,11 @@ There are many third-party editors that people can downloaded. Some are free and
 7. Sublime Text 3 is a premium software that can be purchased in full for $70. Otherwise you’ll use the free version. Sublime Text enjoys a history of being fast and responsive while being extensible as well. There’s no doubt that Sublime Text will tick the check boxes of what to look for in a text editor. It has syntax highlighting, it has code completion, it has themes and extensions. And will definitely get the job done no matter how advanced you get with your coding.
 ### The Difference Between Text Editors and Integrated Development Environment (IDEs)
 An IDE is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package. It is commonly used by more experienced coders as it filled with more features. 
+
+### References
+[Chosing A Test Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+
+
+
+### About The Author
+Veteran and Current Student at University of Memphis. Hoping to make positive changes in the world through my daily work and can be found at [Azhar Baig](https://github.com/Azhar-B).
