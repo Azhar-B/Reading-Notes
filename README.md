@@ -22,9 +22,9 @@ Markdown is a is a way to style text on the web. It gives a variety of options f
 
 ### List of Commands
 1. Headers
-> # This is an <h1> tag
- ## This is an <h2> tag
- ###### This is an <h6> tag
+ * # This is an <h1> tag
+ * ## This is an <h2> tag
+ * ###### This is an <h6> tag
   
 2. Emphasis
 > *This text will be italic*
