@@ -31,4 +31,5 @@ Features to Look for in a text-editor:
 #### Installed Editors
 There are two text editors already installed into most computers. On Macs, this is called Text Edit and on Windows, this is called Notepad. Linus computers will have their own text editors dependent on the distrubution the indvidual has. The text editors are very bare bones and lacking in many helpful features. 
 #### Third-Party Text Editors
-There are many third-party editors that people can downloaded. Some are free and some have to be paid for.
+There are many third-party editors that people can downloaded. Some are free and some have to be paid for. The following is a list of third-party text editors commonly used.
+1. NotePad++ is a free text editor for Windows Computers only. NotePad++ has been around for many years and many web developers swear by NotePad++. It has syntax highlighting and code completion, as well as word completion and function completion. It has a zoom in an out feature, it’s own online community, and its own chat room for questions that may arise. It even has its own searchable wiki page for more assistance
