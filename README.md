@@ -14,3 +14,10 @@ It is always hardest in the beginning
 [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset). 
 ## About The Author
 Azhar Ali Baig is a veteran of the United States Army who seeks to make positive changes in the world through his daily work. He can be found at [Azhar Ali Baig](https://github.com/Azhar-B). 
+
+
+## Choosing A Text Editor
+
+### What is A Text Editor
+
+A text editor is a piece of software used to write and manage text for software developing.
