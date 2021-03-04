@@ -15,3 +15,16 @@ Benefits of Git
 ## History of Git
 Git traces its roots to the open source software project Linux kernel. Developers of this project began using a DVCS called BitKeeper in 2002. In 2005, many of these developers stopped using this DVCS due to tension between the Linux kernel community and the company behind BitKeeper’s and the eventual revocation of the DVCS’ gratis status. Subsequently, Linus Torvalds, the chief architect of the Linux kernel, began creating Git. With the intention of creating a DVCS with a workflow design similar to that of BitKeeper, which was also fast, Git allowed for non-linear development via multiple branches, could support large projects, possessed strong mechanisms preventing corruption, and had a simple design. Since its inception in 2005, Git has become one of the most utilized Version Control Systems in the world.
 
+## Setting up a Git Repository
+### Importing
+To import an existing project or directory into Git, follow these steps using the Terminal or Command Line:
+1. Switch to the target project’s directory
+2. Use the git init command
+3. To start tracking these repository files, perform an initial commit by typing the following
+      1. $ git add *.c
+      2. $ git add LICENSE
+      3. $ git commit -m “any message here”
+### Cloning
+You can also create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL:
+      * $ git clone https://github.com/test
+By cloning the file, you have copied all versions of all files for a project. This command leads to the creation of a directory called “test,” with an initialized .git directory inside it, which has copies of all versions of all files for the specified project. The command also automatically checks out — or retrieves for editing — a copy of the newest version of the project.
