@@ -54,3 +54,21 @@ To determine the state of files, utilize the git status command:
  Track one file only by using the following format:
    * git add filename
 #### All Files
+Track all files in a repository by using the following command:
+   * $ git add *
+   * After adding a new file called EXAMPLE, you would see information regarding changes to be committed when using the git status command:
+         * $ git status
+### Committing a File
+After staging one or multiple files, you should commit the changes and record what you did within the commit message:
+   * $ git commit -m “made change x,y,z”
+### Committing All Changes
+* $ git commit -a
+### Pushing Changes
+Next, you would push changes to a remote repository. We will discuss remote repositories in more depth in the next section. For now, we will look at a general overview of pushing changes to remotes.
+
+
+## References
+[Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+
+## About The Author
+Veteran and Current Student at University of Memphis. Hoping to make positive changes in the world through my daily work. I can be found at [Azhar Baig](https://github.com/Azhar-B)
