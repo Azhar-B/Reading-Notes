@@ -3,5 +3,7 @@
 Git is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it.
 
 Benefits of Git
+* Local Operations
+* Tracking Changes
+* Limits the Loss of Data
 
-*Local Operations
