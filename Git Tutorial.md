@@ -50,4 +50,7 @@ All files in a checked out (or working) copy of a project file are either in a t
 To determine the state of files, utilize the git status command:
    * $ git status
  ### Tracking and Staging a New File
- 
+ #### Single File
+ Track one file only by using the following format:
+   * git add filename
+#### All Files
