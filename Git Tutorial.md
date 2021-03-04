@@ -30,3 +30,24 @@ You can also create a copy of an existing Git repository from a particular serve
       *$ git clone https://github.com/test
 
 By cloning the file, you have copied all versions of all files for a project. This command leads to the creation of a directory called “test,” with an initialized .git directory inside it, which has copies of all versions of all files for the specified project. The command also automatically checks out — or retrieves for editing — a copy of the newest version of the project.
+
+## Workflow
+### Local Repository Structure
+The local Git repository has three components:
+   1. Working Directory: The actual files reside here.
+   2. Index: The area used for staging
+   3. Head: Points to the most recent commit
+### Saving Changes
+All files in a checked out (or working) copy of a project file are either in a tracked or untracked state.
+   * Tracked: Tracked files can be modified, unmodified, or staged; they were part of the most recent file snapshot.
+   * Untracked: Untracked files were not in the last snapshot and do not currently reside in the staging area.
+### Lifecycle of File Status
+1. After you edit a file, Git flags it as modified because of changes made after the previous commit.
+2. You stage the modified file
+3. Then, you commit staged changes.
+
+### Checking File Status
+To determine the state of files, utilize the git status command:
+   * $ git status
+ ### Tracking and Staging a New File
+ 
