@@ -26,3 +26,7 @@ An IDE is really a suite of different software all coming together. An IDE is a 
 
 ### References
 [Chosing A Test Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+
+### About The Author
+Veteran and Current Student at University of Memphis. Hoping to make positive changes in the world through my daily work and can be found at [Azhar Baig](https://github.com/Azhar-B).
+
