@@ -93,4 +93,11 @@ When making sense of a design, we tend to organize visual elements into groups. 
 1. Proximity: When several items are placed close together, they percieved as more related than items that are placed further apart. 
 2. Closure: When faced with a complicated arrangement of items, we will often look for a single or recognisable pattern or form. A real or imaginary box can be formed around elements due to their proximity and alignment. 
 3. Continuance: When elements are placed in a line or a curve then they are percieved to be more related than those that are not following the same direction. THis can be used to direct a reader from one part of a page to the next.
-4. 
+4. White Space: Placing related items closer together and leaving a bigger gap between unrealted items
+5. Color: A background color placed behind related to emphasize their connection.
+6. Borders: A line can be drawn around the border of the group or between it and its neighbors.
+
+Site navigation not only helps people find where they want to go, but also helps them understand what your site is about and how it is organized.Good navigation tends to follow these principles...
+1. Concise: Ideally, the navigation should be quick and easy to read. It is a good idea to try to limit the number of options in a menu to no more than eight links. These can link to section homepages which in turn link to other pages.
+2. Clear: Users should be able to predict the kind of information that they will find on the page before clicking on the link. Where possible, choose single descriptive words for each link rather than phrases
+3. Selective: The primary navigation should only reflect the sections or content of the site. Functions like logins and search, and legal information like terms and conditions and so on are best placed elsewhere on the page.
