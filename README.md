@@ -8,6 +8,7 @@ This is my reading notes for class 102 of Codecrew's Parttime Class. My instruct
 2. [Markdown](https://azhar-b.github.io/Reading-Notes/Markdown)
 3. [Text Editor](https://azhar-b.github.io/Reading-Notes/Text%20Editor)
 4. [Git Tutorial](https://azhar-b.github.io/Reading-Notes/Git%20Tutorial)
+5. [HTML & CSS.md](https://azhar-b.github.io/Reading-Notes/HTML%20%26%20CSS.md)
 
 
 ## About The Author
