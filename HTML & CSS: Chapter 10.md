@@ -49,3 +49,5 @@ Internal CSS uses the page itself. Internal CSS is important if you want to spec
     * Keeps the content separate from how the page looks.
     * Means you can change the styles used across all pages by altering just one file (rather than each individual page).
 
+Veteran and Current Student at University of Memphis. Hoping to make positive changes in the world through my daily work. I can be found at Azhar Baig
+
