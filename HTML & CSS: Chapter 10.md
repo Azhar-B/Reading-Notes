@@ -1,3 +1,10 @@
+# Chapter Ten
+
+## Introducing CSS
+
+### What is CSS?
+
+CSS stands for Cascading Style-Sheet. It is helps a programmer design and style their html code. CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.
 1. Selectors indicate which element the rule applies to. The same rule can apply to more than one element if you separate the element names with commas.
     * There are many different types of CSS selector that allow you to target rules to specific elements in an HTML document.
         * Universal Selector: Applies to all elements in the document
